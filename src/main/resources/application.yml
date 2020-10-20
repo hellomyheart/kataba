@@ -22,3 +22,7 @@ mybatis-plus:
 server:
   #  端口号
   port: 8100
+
+#自定义配置
+kataba:
+  passkey: Ch5CX73J5pUlW+/sK11VDA==
