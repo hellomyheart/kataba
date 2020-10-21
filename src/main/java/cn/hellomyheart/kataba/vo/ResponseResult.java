@@ -1,11 +1,8 @@
 package cn.hellomyheart.kataba.vo;
 
 import cn.hellomyheart.kataba.core.type.RType;
-import cn.hellomyheart.kataba.entity.User;
-import com.baomidou.mybatisplus.extension.api.R;
 import lombok.Data;
 
-import java.util.List;
 
 /**
  * @description 统一返回结果集
