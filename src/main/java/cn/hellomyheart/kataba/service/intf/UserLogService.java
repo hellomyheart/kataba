@@ -18,5 +18,9 @@ public interface UserLogService {
      */
     ResponseResult save(UserLog userLog);
 
-    //查询
+    /**
+     * 查询
+     * @return
+     */
+    ResponseResult all();
 }

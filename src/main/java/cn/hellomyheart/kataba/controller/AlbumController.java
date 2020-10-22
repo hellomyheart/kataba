@@ -5,7 +5,6 @@ import cn.hellomyheart.kataba.dto.AlbumDto;
 import cn.hellomyheart.kataba.dto.AlbumUpdateDto;
 import cn.hellomyheart.kataba.service.intf.AlbumService;
 import cn.hellomyheart.kataba.vo.ResponseResult;
-import com.baomidou.mybatisplus.extension.api.R;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
